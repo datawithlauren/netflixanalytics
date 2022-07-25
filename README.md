@@ -1,4 +1,4 @@
-# SQL Project: Design a store database
+# SQL Practice: Netflix Analytics
 ## (PostgreSQL) Querying database from bit.io, holding Netflix data to answer questions about the data
 
 *The following questions are then answered to apply SQL learnings:*
